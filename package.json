@@ -1,0 +1,14 @@
+{
+    "name": "04-bases-nodejs",
+    "version": "1.0.0",
+    "description": "programa de comandos",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jason Dinamarca",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^16.1.1"
+    }
+}
